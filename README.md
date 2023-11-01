@@ -57,6 +57,8 @@ public class Program
 ## Description:
 This asynchronous function initiates the retrieval of orders from the Alpaca API. For each order, it captures distributed traces using OpenTelemetry.
 
+
+
 ### Example Usage:
 
 ```csharp
