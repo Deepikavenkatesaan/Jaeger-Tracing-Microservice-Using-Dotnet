@@ -1,6 +1,6 @@
 # Branch 1 : Alpaca API Console Application Using Dotnet
 
-Introduction:
+## Introduction:
 
 This console application is designed to interact with the Alpaca API, specifically for retrieving and displaying orders. 
 
